@@ -1,0 +1,10 @@
+kata_fashionTDD
+Kata fashion, is a kata for calculating the fashion of a list of items.
+
+Fashion is, given a list (it can contain anything, numbers, letters, emojis, ... or mixed), the one that is repeated the most times.
+
+Example:
+
+const list = [1,"a",🚀,🚀,🐦,5,1,🤗]
+
+Fashion is 🚀
